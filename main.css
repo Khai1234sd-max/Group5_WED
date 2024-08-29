@@ -1,0 +1,85 @@
+.Part_1>h2{
+    font-size: 30px;
+    color :#DB2633;
+    margin-left:5%
+}
+.flex_1{
+    display:flex;
+}
+.para1{
+    font-weight: bold;
+    font-size: 20px;
+    width:48%;
+    margin-left:7%
+}
+.img1{
+    width:48%;
+    margin-left: 13%;
+    padding-bottom: 15px;
+}
+.Part_2>h2{
+    font-size: 30px;
+    color:#DB2633;
+    margin-left:5%
+}
+.flex_2{
+    display:flex;
+}
+.para2{
+    font-weight: bold;
+    font-size: 20px;
+    width:48%;
+    margin-left:7%
+}
+.img2{
+    width:48%;
+    margin-left: 13%;
+    padding-bottom: 15px;
+}
+.Part_3>h2{
+    font-size: 30px;
+    color:#DB2633;
+    margin-left:5%
+}
+.flex_3{
+    display:flex;
+}
+.para3{
+    font-size: 20px;
+    font-weight: bold;
+    width:48%;
+    margin-left:7%
+}
+.img3{
+    width:48%;
+    margin-left: 13%;
+    padding-bottom: 15px;
+}
+.Part_4>h2{
+    font-size: 30px;
+    color:#DB2633;
+    margin-left:5%
+}
+.Part_4>table{
+    margin-left:2%;
+}
+.footer{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 2%;
+    background-color: #FECE58;
+}
+.Final{
+    color: #DB2633;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.picture{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.picture a{
+    color:#2F621D;
+}
