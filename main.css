@@ -40,6 +40,7 @@ header {
     text-align: center;
     margin: 20px;
     margin-bottom: 30px;
+    
 }
 
 .Title h1 {
@@ -48,6 +49,8 @@ header {
     letter-spacing: 1px;
     border-bottom-style: groove;
     border-color: #DB2633;
+    border-radius: 80px; 
+    
     
     padding-bottom: 10px;
 }
